@@ -20,6 +20,6 @@ My credentials include a technologist in Industrial Automation from the Faculdad
 
 ## Projects:
 
-* **Analisando os dados do Airbnb:** http://bit.ly/4adrzPc 
+* **Analisando os dados do Airbnb:** https://bit.ly/4ha4YVK 
 
 ---
