@@ -21,5 +21,5 @@ My credentials include a technologist in Industrial Automation from the Faculdad
 ## Projects:
 
 * **Analisando os dados do Airbnb:** https://bit.ly/4ha4YVK 
-
+* **Brazil and COVID-19, analysing the big picture:** https://bit.ly/3DZ8bJN
 ---
