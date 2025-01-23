@@ -8,7 +8,7 @@
 
 As a Data Scientist and Industrial Automation Specialist with years of experience I combine analytical skills, ability to work in team environments, and attention to details. Having spend the past ten years solving industry demands from maintenance to continual improvements and technology, I developed a critical thinking and problem-solving skills.
 
-My credentials include a technologist in Industrial Automation from the Faculdade SENAI de Porto Alegre, the biggest education network regarding the fields of industry and highly rated in Brazil, and a MBA in Data Science from [Sigmoidal.ai](https://sigmoidal.ai).
+My credentials include a technologist degree in Industrial Automation from the Faculdade SENAI de Porto Alegre, the biggest education network regarding the fields of industry and highly rated in Brazil, and a Graduate Certificate in Data Science from [Sigmoidal.ai](https://sigmoidal.ai).
 
 **Background in:** Industrial Automation, Machine Learning, Robotics and Data Science.
 
