@@ -17,7 +17,6 @@ My credentials include a technologist degree in Industrial Automation from the F
 * [LinkedIn](https://www.linkedin.com/in/guilherme-lessinger/)
 * [Medium](https://www.medium.com)
 
-
 ## Projects:
 
 ### Data Science: 
@@ -27,7 +26,7 @@ My credentials include a technologist degree in Industrial Automation from the F
 ### Industrial Automation:
 * **Robotic Palletizing Systems:** 
 * **Python gateway Snap7/Modbus:** 
-* **Python Telegram Bot with Siemens:** 
+* **Python Telegram Bot with Siemens:** http://bit.ly/3UwMPIr
 * **Python SCADA with Streamlit:**
 
 
