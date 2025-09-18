@@ -23,11 +23,15 @@ My credentials include a technologist degree in Industrial Automation from the F
 * **Analyzing Airbnb data from the city of Rome:** https://bit.ly/4ha4YVK 
 * **Brazil and COVID-19, analysing the big picture:** https://bit.ly/3DZ8bJN
 
+  ### Computacional Vision: 
+* **Drowsiness detector:**  
+* 
+
 ### Industrial Automation:
-* **Robotic Palletizing Systems:** 
-* **Python gateway Snap7/Modbus:** 
+* **Robotic Palletizing Systems:** Working on
+* **Python gateway Snap7/Modbus:** Working on
 * **Python Telegram Bot with Siemens:** http://bit.ly/3UwMPIr
-* **Python SCADA with Streamlit:**
+* **Python SCADA with Streamlit:** Working on
 
 
 ---
