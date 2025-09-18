@@ -24,7 +24,7 @@ My credentials include a technologist degree in Industrial Automation from the F
   * **Brazil and COVID-19, analysing the big picture:** [Here](https://bit.ly/3DZ8bJN)
 
   ### Computacional Vision: 
-  * **Drowsiness detector:** [Here](http://bit.ly/3KaNTjp)
+  * **Drowsiness Detector:** [Here](http://bit.ly/3KaNTjp)
 
   ### Industrial Automation:
   * **Robotic Palletizing Systems:** Working on
